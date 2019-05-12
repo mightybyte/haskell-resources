@@ -31,6 +31,7 @@
 - [Typing Haskell in Haskell](https://web.cecs.pdx.edu/~mpj/thih/thih.pdf)
 - [Type Families](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/typefun.pdf?from=https%3A%2F%2Fresearch.microsoft.com%2F%7Esimonpj%2Fpapers%2Fassoc-types%2Ffun-with-type-funs%2Ftypefun.pdf)
 - [Type Families pt. 2](https://www.microsoft.com/en-us/research/wp-content/uploads/2005/01/at-syns.pdf)
+- [Closed Type Families with Overlapping Equations](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/popl137-eisenberg.pdf?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fext-f%2Faxioms-extended.pdf)
 - [GADTs](https://ecommons.cornell.edu/bitstream/handle/1813/5614/TR2003-1901.pdf?sequence=1)
 - [First Class Modules in Haskell](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/first_class_modules.pdf)
 - [Kind Promotion](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/p53-yorgey.pdf)
