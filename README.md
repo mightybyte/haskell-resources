@@ -1,21 +1,21 @@
 ## A List of Foundational Haskell Papers
 
-#### History
+#### 01 History
 
 - [A History of Haskell: being lazy with class](https://www.iro.umontreal.ca/~monnier/2035/history.pdf)
 
-#### The Beginning: The Eugenio Moggi Papers
+#### 02 The Beginning: The Eugenio Moggi Papers
 
 - [Notions of Computations over Monads](https://core.ac.uk/download/pdf/21173011.pdf)
 - [Computational Lambda Calculus and Monads](https://www.disi.unige.it/person/MoggiE/ftp/lics89.pdf)
 - [Monads for functional programming](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf)
-- [The essence of functional programming](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.9361&rep=rep1&type=pdf) 
+- [The essence of functional programming](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.9361&rep=rep1&type=pdf)
 
-#### Propositions as Types
+#### 03 Propositions as Types
 
 - [Propositions as Types](https://pdfs.semanticscholar.org/1dc4/2af9a52032fcee178865a6be7ac2f46c9ff4.pdf)
 
-#### Haskell Semantics and Design Spaces
+#### 04 Haskell Semantics and Design Spaces
 
 - [Semantics](https://www.microsoft.com/en-us/research/wp-content/uploads/1991/03/A-Static-Semantics-for-Haskell_small.pdf)
 - [How to make ad hoc polymorphism less ad hoc](https://people.csail.mit.edu/dnj/teaching/6898/papers/wadler88.pdf)
@@ -36,7 +36,7 @@
 - [Kind Promotion](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/p53-yorgey.pdf)
 - [Stream Fusion. From Lists to Streams to Nothing at All](http://fun.cs.tufts.edu/stream-fusion.pdf)
 
-#### Type Systems
+#### 05 Type Systems
 
 - [Lambda Calculus with Types](http://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/geuvers.pdf)
 - [The Call by Need Lambda Calculus](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.1889&rep=rep1&type=pdf)
@@ -46,7 +46,7 @@
 - [System F with type equality coercion](https://www.microsoft.com/en-us/research/wp-content/uploads/2007/01/tldi22-sulzmann-with-appendix.pdf?from=https%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fext-f%2Ftldi22-sulzmann-with-appendix.pdf)
 - [System FC with Kind Equality](https://cs.brynmawr.edu/~rae/papers/2013/fckinds/fckinds-extended.pdf)
 
-#### Misc Parametricity
+#### 06 Misc Parametricity
 
 - [Theorems for Free](http://ecee.colorado.edu/ecen5533/fall11/reading/free.pdf)
 - [Free theorems for TyCons](http://www.janis-voigtlaender.eu/papers/FreeTheoremsInvolvingTypeConstructorClasses.pdf)
@@ -54,7 +54,7 @@
 - [Type Derivatives and Typed Holes](http://strictlypositive.org/diff.pdf)
 - [Suggesting Valid Hole Fits](https://mpg.is/papers/gissurarson2018suggesting.pdf)
 
-#### Misc TypeChecking + PLT
+#### 07 Misc TypeChecking + PLT
 
 - [Parametric HOAS](http://adam.chlipala.net/papers/PhoasICFP08/PhoasICFP08.pdf)
 - [Tutorial on Bidirectional Type Inference](http://davidchristiansen.dk/tutorials/bidirectional.pdf)
@@ -68,7 +68,7 @@
 - [Boxes go Bananas](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1031&context=cis_reports)
 
 
-#### Functional pearls
+#### 08 Functional pearls
 
 - [The countdown problem](http://www.cs.nott.ac.uk/~pszgmh/countdown.pdf)
 - [A program to solve Sudoku](https://www.cs.tufts.edu/~nr/cs257/archive/richard-bird/sudoku.pdf)
@@ -78,7 +78,7 @@
 - [I am not a Number, I am a Free Variable!](http://www.cs.ru.nl/~james/RESEARCH/haskell2004.pdf)
 - [Notions of Computation as Monoids - Exequiel Rivas, Mauro Jaskelioff](https://www.fceia.unr.edu.ar/~mauro/pubs/Notions_of_Computation_as_Monoids_ext.pdf)
 
-#### Algebra of programming
+#### 09 Algebra of programming
 
 - [Functional programming with Bananas, Lenses, and Barbed Wire](https://maartenfokkinga.github.io/utwente/mmf91m.pdf)
 - [Origami programming](https://www.cs.ox.ac.uk/jeremy.gibbons/publications/origami.pdf)
@@ -87,3 +87,8 @@
 - [Bananas in Space](http://www.cs.nott.ac.uk/~pszgmh/bananas.pdf)
 - [Conjugate Hylomorphisms](https://www.cs.ox.ac.uk/people/nicolas.wu/papers/Hylomorphisms.pdf)
 - [Adjoint Folds](https://www.cs.ox.ac.uk/ralf.hinze/publications/SCP-78-11.pdf)
+- [Compiling to Categories](http://conal.net/papers/compiling-to-categories/compiling-to-categories.pdf)
+
+#### 10 Compiler Optimizations
+
+- [Optimisation of Generic Programs through Inlining](http://dreixel.net/research/pdf/ogpi.pdf)

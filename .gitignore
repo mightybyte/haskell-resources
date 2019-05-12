@@ -1,9 +1,10 @@
-Algebra of programming
-Functional pearls
-Haskell Semantics and Design Spaces
-History
-Misc Parametricity
-Misc TypeChecking + PLT
-Propositions as Types
-The Beginning: The Eugenio Moggi Papers
-Type Systems
+01 History
+02 The Beginning: The Eugenio Moggi Papers
+03 Propositions as Types
+04 Haskell Semantics and Design Spaces
+05 Type Systems
+06 Misc Parametricity
+07 Misc TypeChecking + PLT
+08 Functional pearls
+09 Algebra of programming
+10 Compiler Optimizations
